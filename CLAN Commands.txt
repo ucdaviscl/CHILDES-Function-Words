@@ -1,0 +1,11 @@
+CLAN Commands:
+
+mor *.cha
+
+mlu +t*CHI +d +u *.cha > "child name"_mlu.csv (MLU All)
+
+ipsyn +t*CHI +leng *.cha (50 utterances)
+	mlu +t*CHI +d +u *.ipcore.cex > "child"_mlu50.csv (MLU50)
+
+ipsyn +t*CHI +o +leng *.cha (100 utterances)
+	mlu +t*CHI +d +u *.ipcore-100.cex > "child"_mlu100.csv (MLU100)

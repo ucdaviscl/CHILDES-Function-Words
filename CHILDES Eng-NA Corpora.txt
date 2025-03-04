@@ -1,0 +1,12 @@
+CHILDES Eng-NA Corpora:
+
+Braunwald: Laura
+Brown: Adam, Eve, Sarah
+Clark: Shem
+Demetras1: Trevor
+Kuczaj: Abe
+MacWhinney: Ross
+Sachs: Naomi
+Snow: Nathaniel
+Suppes: Nina
+Weist: Benjamin, Emily, Emma, Jillian, Matt, Roman.
