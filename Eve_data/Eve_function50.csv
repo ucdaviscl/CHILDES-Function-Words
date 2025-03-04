@@ -1,0 +1,21 @@
+File,Most Common Function Words,Function Word Proportion
+010600a.ipcore.cex,"[('det:art', 4), ('qn', 2), ('comp', 2), ('mod', 1)]",0.07142857142857142
+010600b.ipcore.cex,"[('qn', 1), ('comp', 1), ('prep', 1), ('mod', 1), ('det:art', 1)]",0.03571428571428571
+010700a.ipcore.cex,"[('qn', 5), ('prep', 2), ('part', 2), ('det:art', 1), ('comp', 1)]",0.07006369426751592
+010700b.ipcore.cex,"[('prep', 3), ('comp', 3), ('qn', 3), ('part', 1), ('det:art', 1)]",0.06832298136645963
+010800.ipcore.cex,"[('part', 4), ('det:art', 3), ('prep', 3), ('comp', 2), ('qn', 1), ('coord', 1)]",0.08092485549132948
+010900a.ipcore.cex,"[('part', 6), ('det:art', 3), ('qn', 3), ('comp', 1), ('prep', 1)]",0.07692307692307693
+010900b.ipcore.cex,"[('part', 15), ('comp', 6), ('prep', 4), ('qn', 3), ('det:art', 3), ('mod', 1)]",0.17204301075268819
+010900c.ipcore.cex,"[('det:art', 8), ('prep', 6), ('comp', 5), ('part', 4), ('qn', 1)]",0.1276595744680851
+011000a.ipcore.cex,"[('prep', 8), ('det:art', 5), ('comp', 2), ('part', 2), ('qn', 2), ('aux', 1), ('coord', 1)]",0.105
+011000b.ipcore.cex,"[('comp', 11), ('prep', 7), ('det:art', 5), ('part', 5), ('qn', 4), ('inf', 2), ('cop', 2), ('mod', 1)]",0.19473684210526315
+011100a.ipcore.cex,"[('prep', 6), ('det:art', 5), ('part', 4), ('comp', 3), ('qn', 3), ('cop', 2), ('conj', 1)]",0.1218274111675127
+011100b.ipcore.cex,"[('prep', 9), ('det:art', 7), ('part', 5), ('qn', 4), ('comp', 3), ('cop', 1), ('conj', 1)]",0.1382488479262673
+020000a.ipcore.cex,"[('prep', 12), ('part', 8), ('comp', 5), ('det:art', 3), ('mod', 2), ('coord', 1), ('cop', 1), ('conj', 1)]",0.14224137931034483
+020000b.ipcore.cex,"[('prep', 8), ('det:art', 6), ('cop', 4), ('qn', 3), ('coord', 2), ('mod', 2), ('conj', 1), ('inf', 1), ('comp', 1), ('part', 1)]",0.14356435643564355
+020100a.ipcore.cex,"[('mod', 11), ('part', 10), ('det:art', 6), ('prep', 6), ('conj', 2), ('inf', 2), ('coord', 1), ('cop', 1), ('aux', 1)]",0.18518518518518517
+020100b.ipcore.cex,"[('part', 10), ('qn', 10), ('coord', 6), ('cop', 4), ('det:art', 4), ('mod', 3), ('conj', 2), ('prep', 2), ('inf', 2), ('comp', 1), ('aux', 1)]",0.22277227722772278
+020200a.ipcore.cex,"[('prep', 12), ('det:art', 7), ('qn', 6), ('comp', 4), ('cop', 3), ('coord', 3), ('part', 3), ('mod', 2)]",0.182648401826484
+020200b.ipcore.cex,"[('qn', 7), ('prep', 7), ('comp', 4), ('det:art', 4), ('part', 4), ('coord', 3), ('inf', 2), ('conj', 1), ('mod', 1), ('cop', 1)]",0.16666666666666666
+020300a.ipcore.cex,"[('cop', 7), ('prep', 6), ('mod', 6), ('qn', 5), ('det:art', 3), ('part', 3), ('conj', 2), ('coord', 2), ('inf', 1)]",0.1440329218106996
+020300b.ipcore.cex,"[('det:art', 20), ('prep', 5), ('part', 5), ('cop', 4), ('inf', 3), ('comp', 2), ('mod', 2), ('qn', 2), ('coord', 1), ('aux', 1)]",0.23684210526315788
