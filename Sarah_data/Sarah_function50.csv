@@ -1,0 +1,140 @@
+File,Most Common Function Words,Function Word Proportion
+020305.ipcore.cex,"[('det:art', 23), ('mod', 1), ('prep', 1)]",0.1773049645390071
+020307.ipcore.cex,"[('det:art', 22), ('qn', 1), ('part', 1)]",0.1643835616438356
+020319.ipcore.cex,"[('det:art', 5), ('part', 2), ('cop', 2), ('prep', 1)]",0.07874015748031496
+020322.ipcore.cex,"[('cop', 2), ('part', 2), ('prep', 2), ('det:art', 1), ('aux', 1), ('comp', 1)]",0.06818181818181818
+020326.ipcore.cex,"[('det:art', 3), ('cop', 3), ('part', 2), ('prep', 1)]",0.06818181818181818
+020328.ipcore.cex,"[('det:art', 10), ('part', 1), ('cop', 1), ('comp', 1), ('coord', 1)]",0.1076923076923077
+020410.ipcore.cex,"[('det:art', 1), ('coord', 1), ('prep', 1), ('qn', 1)]",0.030534351145038167
+020412.ipcore.cex,"[('det:art', 5), ('part', 4), ('prep', 3), ('aux', 1), ('coord', 1)]",0.10071942446043165
+020417.ipcore.cex,"[('det:art', 7), ('conj', 1), ('part', 1)]",0.06818181818181818
+020419.ipcore.cex,"[('det:art', 5), ('prep', 1), ('qn', 1), ('mod', 1), ('part', 1), ('coord', 1)]",0.072992700729927
+020426.ipcore.cex,"[('prep', 4), ('det:art', 3)]",0.05384615384615385
+020507.ipcore.cex,"[('cop', 1), ('det:art', 1), ('part', 1)]",0.022058823529411766
+020515.ipcore.cex,"[('qn', 2), ('part', 1), ('det:art', 1)]",0.028985507246376812
+020525.ipcore.cex,"[('mod', 2), ('part', 1), ('comp', 1), ('coord', 1), ('det:art', 1)]",0.0410958904109589
+020530.ipcore.cex,"[('det:art', 8), ('prep', 5), ('mod', 2), ('part', 2), ('conj', 1)]",0.13432835820895522
+020604.ipcore.cex,"[('qn', 2), ('det:art', 2), ('cop', 1)]",0.04032258064516129
+020613.ipcore.cex,"[('det:art', 3), ('part', 2), ('qn', 2), ('mod', 1), ('prep', 1)]",0.06766917293233082
+020620.ipcore.cex,"[('det:art', 5), ('prep', 2)]",0.04861111111111111
+020630.ipcore.cex,"[('mod', 1), ('prep', 1), ('qn', 1)]",0.02142857142857143
+020705.ipcore.cex,"[('det:art', 3), ('qn', 1), ('comp', 1), ('conj', 1), ('prep', 1), ('mod', 1), ('cop', 1)]",0.06818181818181818
+020712.ipcore.cex,"[('det:art', 4), ('qn', 4), ('prep', 3), ('cop', 2)]",0.08227848101265822
+020718.ipcore.cex,"[('qn', 1), ('conj', 1)]",0.015503875968992248
+020728.ipcore.cex,"[('prep', 3), ('part', 1), ('qn', 1), ('cop', 1), ('conj', 1), ('comp', 1), ('mod', 1)]",0.06206896551724138
+020802.ipcore.cex,"[('qn', 3), ('prep', 3), ('conj', 1), ('det:art', 1), ('comp', 1)]",0.06206896551724138
+020825a.ipcore.cex,"[('det:art', 11), ('part', 3), ('mod', 3), ('cop', 1)]",0.12
+020825b.ipcore.cex,"[('qn', 3), ('part', 3), ('cop', 2), ('prep', 2), ('aux', 1), ('comp', 1), ('coord', 1), ('det:art', 1)]",0.08484848484848485
+020900.ipcore.cex,"[('prep', 5), ('det:art', 4), ('part', 3), ('mod', 1), ('inf', 1)]",0.09090909090909091
+020906.ipcore.cex,"[('prep', 1), ('part', 1), ('det:art', 1)]",0.02040816326530612
+020914.ipcore.cex,"[('det:art', 7), ('prep', 2), ('part', 1)]",0.0684931506849315
+020920.ipcore.cex,"[('det:art', 4), ('cop', 4), ('prep', 1), ('qn', 1)]",0.07633587786259542
+020929.ipcore.cex,"[('part', 5), ('det:art', 4), ('mod', 2), ('qn', 1), ('prep', 1)]",0.08280254777070063
+021005.ipcore.cex,"[('cop', 4), ('prep', 3), ('mod', 3), ('inf', 2), ('det:art', 2), ('comp', 1), ('part', 1), ('qn', 1)]",0.09340659340659341
+021011.ipcore.cex,"[('part', 3), ('prep', 2), ('comp', 2), ('coord', 1), ('cop', 1)]",0.06
+021020.ipcore.cex,"[('mod', 3), ('inf', 3), ('qn', 2), ('det:art', 1), ('cop', 1), ('aux', 1), ('part', 1), ('comp', 1)]",0.07262569832402235
+021024.ipcore.cex,"[('det:art', 4), ('cop', 2), ('prep', 2), ('qn', 2), ('aux', 1), ('coord', 1), ('part', 1), ('conj', 1), ('inf', 1), ('mod', 1)]",0.09523809523809523
+021102.ipcore.cex,"[('det:art', 5), ('prep', 3), ('mod', 3), ('cop', 2), ('part', 2), ('qn', 1)]",0.08791208791208792
+021117.ipcore.cex,"[('mod', 3), ('prep', 2), ('det:art', 2)]",0.043209876543209874
+021123.ipcore.cex,"[('mod', 4), ('comp', 3), ('det:art', 3), ('cop', 3), ('prep', 1), ('conj', 1)]",0.09259259259259259
+021130.ipcore.cex,"[('det:art', 5), ('qn', 4), ('part', 2), ('prep', 1), ('cop', 1), ('comp', 1), ('coord', 1)]",0.10344827586206896
+030018a.ipcore.cex,"[('det:art', 8), ('prep', 5), ('cop', 3), ('comp', 1), ('aux', 1), ('part', 1), ('qn', 1), ('mod', 1)]",0.10294117647058823
+030018b.ipcore.cex,"[('prep', 6), ('det:art', 6), ('comp', 5), ('part', 4), ('cop', 1), ('inf', 1), ('coord', 1)]",0.12
+030027.ipcore.cex,"[('prep', 5), ('det:art', 4), ('mod', 2), ('qn', 1), ('part', 1), ('inf', 1), ('coord', 1), ('cop', 1)]",0.08743169398907104
+030103.ipcore.cex,"[('det:art', 13), ('prep', 6), ('mod', 5), ('cop', 3), ('part', 2), ('inf', 2), ('conj', 1), ('aux', 1)]",0.16751269035532995
+030110.ipcore.cex,"[('det:art', 6), ('cop', 5), ('prep', 5), ('part', 3), ('aux', 2), ('mod', 1), ('comp', 1), ('qn', 1), ('inf', 1)]",0.15527950310559005
+030117.ipcore.cex,"[('det:art', 7), ('cop', 5), ('mod', 3), ('prep', 3), ('part', 2)]",0.11627906976744186
+030124.ipcore.cex,"[('det:art', 19), ('prep', 8), ('mod', 6), ('qn', 5), ('inf', 5), ('part', 4), ('cop', 4), ('aux', 2), ('comp', 2)]",0.24553571428571427
+030202.ipcore.cex,"[('det:art', 10), ('cop', 4), ('prep', 4), ('mod', 2), ('part', 2)]",0.11764705882352941
+030210.ipcore.cex,"[('det:art', 12), ('cop', 8), ('prep', 7), ('mod', 3), ('inf', 2), ('qn', 2), ('coord', 1), ('comp', 1), ('aux', 1)]",0.18877551020408162
+030216.ipcore.cex,"[('mod', 8), ('det:art', 8), ('coord', 7), ('cop', 6), ('qn', 4), ('inf', 2), ('aux', 2), ('prep', 2), ('part', 1)]",0.17316017316017315
+030223.ipcore.cex,"[('det:art', 5), ('prep', 5), ('cop', 5), ('part', 4), ('inf', 2), ('mod', 1), ('aux', 1), ('qn', 1)]",0.13793103448275862
+030307a.ipcore.cex,"[('cop', 6), ('det:art', 6), ('prep', 5), ('mod', 2), ('inf', 2), ('qn', 2), ('conj', 1), ('comp', 1)]",0.13227513227513227
+030307b.ipcore.cex,"[('det:art', 10), ('part', 4), ('prep', 4), ('mod', 4), ('qn', 1), ('conj', 1), ('inf', 1), ('cop', 1)]",0.1368421052631579
+030313.ipcore.cex,"[('prep', 14), ('cop', 6), ('det:art', 6), ('mod', 4), ('coord', 3), ('aux', 2), ('comp', 1), ('part', 1), ('conj', 1), ('inf', 1)]",0.18571428571428572
+030320.ipcore.cex,"[('det:art', 7), ('part', 7), ('cop', 6), ('prep', 6), ('aux', 3), ('mod', 2), ('coord', 1), ('inf', 1), ('comp', 1)]",0.17
+030328.ipcore.cex,"[('det:art', 18), ('cop', 17), ('qn', 2), ('coord', 1), ('comp', 1), ('mod', 1), ('prep', 1), ('inf', 1)]",0.2198952879581152
+030401.ipcore.cex,"[('det:art', 24), ('cop', 9), ('prep', 5), ('coord', 3), ('comp', 2), ('qn', 2), ('mod', 1), ('part', 1)]",0.22815533980582525
+030409.ipcore.cex,"[('det:art', 11), ('cop', 11), ('prep', 5), ('comp', 5), ('mod', 4), ('coord', 3), ('qn', 1), ('part', 1)]",0.1943127962085308
+030416.ipcore.cex,"[('prep', 9), ('det:art', 8), ('mod', 5), ('cop', 4), ('coord', 3), ('comp', 2), ('qn', 2)]",0.1853932584269663
+030426.ipcore.cex,"[('prep', 7), ('part', 5), ('det:art', 4), ('mod', 3), ('coord', 2), ('conj', 2), ('cop', 1), ('aux', 1), ('inf', 1)]",0.13612565445026178
+030501.ipcore.cex,"[('prep', 20), ('det:art', 11), ('coord', 5), ('cop', 4), ('qn', 3), ('mod', 2), ('comp', 1), ('aux', 1), ('part', 1)]",0.24242424242424243
+030507.ipcore.cex,"[('det:art', 9), ('cop', 9), ('part', 5), ('mod', 5), ('prep', 5), ('qn', 3), ('comp', 2), ('inf', 1), ('aux', 1)]",0.1932367149758454
+030513.ipcore.cex,"[('prep', 10), ('cop', 4), ('det:art', 4), ('conj', 3), ('qn', 3), ('part', 3), ('coord', 3), ('mod', 1), ('inf', 1)]",0.16494845360824742
+030520.ipcore.cex,"[('part', 9), ('det:art', 8), ('prep', 6), ('mod', 4), ('cop', 4), ('aux', 4), ('inf', 3), ('qn', 1), ('coord', 1)]",0.21978021978021978
+030606.ipcore.cex,"[('det:art', 13), ('cop', 6), ('coord', 5), ('prep', 5), ('mod', 4), ('part', 2), ('comp', 2), ('aux', 1), ('inf', 1)]",0.18396226415094338
+030616.ipcore.cex,"[('mod', 10), ('det:art', 6), ('prep', 3), ('part', 2), ('coord', 2), ('cop', 1), ('conj', 1)]",0.12254901960784313
+030623.ipcore.cex,"[('det:art', 9), ('prep', 8), ('mod', 7), ('cop', 3), ('part', 2), ('comp', 1), ('aux', 1), ('inf', 1)]",0.16842105263157894
+030630.ipcore.cex,"[('det:art', 13), ('cop', 13), ('mod', 10), ('prep', 8), ('conj', 2), ('qn', 1), ('part', 1), ('comp', 1), ('coord', 1)]",0.20920502092050208
+030709.ipcore.cex,"[('det:art', 13), ('cop', 6), ('part', 5), ('prep', 4), ('aux', 3), ('conj', 2), ('comp', 2), ('coord', 2), ('qn', 2), ('mod', 2)]",0.19902912621359223
+030716.ipcore.cex,"[('det:art', 15), ('mod', 8), ('prep', 8), ('part', 5), ('cop', 3), ('aux', 3), ('inf', 2), ('coord', 2), ('qn', 1)]",0.20704845814977973
+030723.ipcore.cex,"[('mod', 8), ('det:art', 8), ('part', 7), ('cop', 7), ('prep', 6), ('coord', 3), ('comp', 2), ('conj', 2), ('aux', 1), ('inf', 1)]",0.20089285714285715
+030730.ipcore.cex,"[('det:art', 14), ('prep', 10), ('cop', 6), ('part', 5), ('coord', 4), ('mod', 4), ('aux', 2), ('qn', 1)]",0.20535714285714285
+030806.ipcore.cex,"[('mod', 9), ('det:art', 9), ('prep', 8), ('cop', 5), ('part', 3), ('inf', 3), ('aux', 2), ('comp', 2), ('qn', 1)]",0.20192307692307693
+030812.ipcore.cex,"[('det:art', 12), ('mod', 8), ('prep', 3), ('cop', 3), ('conj', 2), ('part', 2), ('inf', 2), ('qn', 1), ('aux', 1)]",0.1559633027522936
+030820.ipcore.cex,"[('det:art', 10), ('part', 7), ('coord', 5), ('cop', 4), ('qn', 3), ('prep', 3), ('mod', 3), ('aux', 3), ('inf', 1), ('comp', 1)]",0.20408163265306123
+030827.ipcore.cex,"[('prep', 9), ('det:art', 7), ('cop', 4), ('mod', 3), ('inf', 2), ('coord', 2), ('qn', 2), ('part', 1), ('comp', 1)]",0.14485981308411214
+030903.ipcore.cex,"[('cop', 11), ('mod', 6), ('det:art', 6), ('prep', 6), ('part', 5), ('comp', 2), ('aux', 2), ('coord', 2), ('inf', 1)]",0.18807339449541285
+030918.ipcore.cex,"[('part', 11), ('det:art', 6), ('mod', 3), ('prep', 3), ('qn', 1), ('cop', 1), ('inf', 1), ('aux', 1), ('coord', 1)]",0.1917808219178082
+030926a.ipcore.cex,"[('det:art', 11), ('part', 9), ('mod', 7), ('cop', 6), ('prep', 6), ('aux', 4), ('qn', 4), ('inf', 3), ('comp', 1), ('coord', 1)]",0.22807017543859648
+030926b.ipcore.cex,"[('mod', 11), ('prep', 7), ('det:art', 7), ('part', 5), ('aux', 4), ('cop', 4), ('inf', 4), ('qn', 2), ('coord', 2), ('comp', 1), ('conj', 1)]",0.21052631578947367
+031001.ipcore.cex,"[('det:art', 13), ('prep', 8), ('mod', 7), ('cop', 5), ('coord', 2), ('qn', 2), ('part', 2), ('comp', 1), ('inf', 1)]",0.205
+031009.ipcore.cex,"[('det:art', 14), ('coord', 10), ('mod', 6), ('cop', 6), ('prep', 3), ('aux', 3), ('part', 2), ('inf', 2), ('conj', 2), ('qn', 1)]",0.23786407766990292
+031016.ipcore.cex,"[('det:art', 11), ('cop', 8), ('part', 6), ('coord', 6), ('inf', 5), ('prep', 5), ('mod', 5), ('qn', 4), ('aux', 2), ('conj', 2), ('comp', 1)]",0.2320675105485232
+031030.ipcore.cex,"[('det:art', 7), ('cop', 6), ('mod', 5), ('part', 5), ('inf', 4), ('prep', 3), ('aux', 2), ('comp', 1)]",0.16923076923076924
+031109.ipcore.cex,"[('part', 8), ('prep', 7), ('coord', 6), ('det:art', 5), ('cop', 3), ('aux', 3), ('inf', 2), ('conj', 1), ('mod', 1)]",0.21428571428571427
+031116.ipcore.cex,"[('det:art', 14), ('prep', 10), ('cop', 10), ('part', 6), ('aux', 6), ('coord', 3), ('mod', 3), ('inf', 2), ('comp', 1), ('qn', 1)]",0.25225225225225223
+031129.ipcore.cex,"[('cop', 10), ('inf', 9), ('mod', 8), ('det:art', 8), ('prep', 6), ('aux', 6), ('part', 5), ('coord', 2)]",0.22131147540983606
+040005.ipcore.cex,"[('prep', 8), ('mod', 8), ('part', 7), ('det:art', 6), ('cop', 4), ('aux', 3), ('coord', 2), ('inf', 1), ('qn', 1), ('conj', 1)]",0.20098039215686275
+040014.ipcore.cex,"[('det:art', 9), ('prep', 6), ('mod', 4), ('cop', 4), ('qn', 2), ('inf', 2), ('coord', 2), ('part', 1), ('conj', 1)]",0.15346534653465346
+040028.ipcore.cex,"[('det:art', 15), ('mod', 12), ('cop', 9), ('prep', 9), ('part', 5), ('inf', 5), ('conj', 3), ('aux', 2), ('coord', 1)]",0.24015748031496062
+040104.ipcore.cex,"[('prep', 13), ('mod', 11), ('det:art', 9), ('cop', 7), ('conj', 5), ('inf', 3), ('qn', 2), ('part', 1), ('comp', 1)]",0.2222222222222222
+040111.ipcore.cex,"[('cop', 7), ('det:art', 5), ('part', 5), ('prep', 3), ('conj', 2), ('aux', 2), ('mod', 2), ('inf', 1)]",0.15428571428571428
+040118.ipcore.cex,"[('mod', 8), ('inf', 8), ('prep', 5), ('cop', 4), ('conj', 4), ('aux', 3), ('part', 3), ('det:art', 3), ('comp', 2), ('coord', 1), ('qn', 1)]",0.2028985507246377
+040128.ipcore.cex,"[('prep', 14), ('mod', 12), ('cop', 8), ('det:art', 7), ('inf', 6), ('aux', 3), ('part', 3), ('conj', 1), ('qn', 1), ('coord', 1)]",0.2445414847161572
+040201.ipcore.cex,"[('det:art', 17), ('cop', 10), ('prep', 8), ('comp', 4), ('part', 4), ('aux', 3), ('coord', 2), ('mod', 2), ('conj', 2), ('qn', 2)]",0.2523364485981308
+040209.ipcore.cex,"[('mod', 11), ('part', 4), ('cop', 4), ('prep', 3), ('aux', 2), ('comp', 2), ('det:art', 2), ('inf', 1)]",0.13488372093023257
+040216.ipcore.cex,"[('det:art', 7), ('prep', 7), ('cop', 7), ('coord', 6), ('mod', 6), ('part', 2), ('aux', 1)]",0.18
+040223.ipcore.cex,"[('mod', 11), ('prep', 9), ('aux', 6), ('part', 6), ('det:art', 5), ('cop', 5), ('qn', 3), ('conj', 2), ('inf', 2), ('comp', 1), ('coord', 1)]",0.21074380165289255
+040228.ipcore.cex,"[('det:art', 12), ('cop', 9), ('prep', 8), ('mod', 6), ('inf', 2), ('conj', 1), ('comp', 1)]",0.17889908256880735
+040307.ipcore.cex,"[('det:art', 12), ('cop', 11), ('prep', 6), ('part', 5), ('qn', 4), ('mod', 4), ('aux', 4), ('conj', 3), ('inf', 2), ('comp', 2), ('coord', 1)]",0.25471698113207547
+040313.ipcore.cex,"[('cop', 17), ('mod', 14), ('det:art', 12), ('qn', 4), ('coord', 4), ('prep', 4), ('inf', 3), ('comp', 3), ('part', 1)]",0.24031007751937986
+040319.ipcore.cex,"[('det:art', 14), ('cop', 7), ('prep', 5), ('mod', 5), ('coord', 4), ('comp', 3), ('conj', 2), ('part', 2), ('aux', 2), ('inf', 1)]",0.3146853146853147
+040326.ipcore.cex,"[('det:art', 18), ('inf', 7), ('cop', 5), ('comp', 4), ('prep', 4), ('mod', 4), ('coord', 3), ('aux', 2), ('part', 2), ('conj', 1)]",0.22624434389140272
+040401.ipcore.cex,"[('det:art', 12), ('cop', 11), ('mod', 6), ('conj', 5), ('inf', 4), ('prep', 3), ('coord', 2), ('part', 2), ('aux', 1), ('comp', 1)]",0.20346320346320346
+040411.ipcore.cex,"[('det:art', 18), ('cop', 13), ('conj', 3), ('mod', 3), ('comp', 3), ('prep', 2), ('part', 1), ('inf', 1), ('aux', 1), ('coord', 1)]",0.2222222222222222
+040418.ipcore.cex,"[('det:art', 14), ('cop', 9), ('prep', 6), ('conj', 3), ('part', 3), ('coord', 2), ('aux', 2), ('comp', 2), ('inf', 1), ('mod', 1)]",0.2097560975609756
+040425.ipcore.cex,"[('det:art', 16), ('cop', 10), ('prep', 10), ('coord', 5), ('qn', 4), ('mod', 3), ('aux', 2), ('part', 2), ('comp', 1), ('inf', 1)]",0.2523364485981308
+040504.ipcore.cex,"[('mod', 11), ('cop', 10), ('prep', 7), ('det:art', 5), ('qn', 4), ('inf', 3), ('coord', 3), ('part', 2), ('conj', 2), ('aux', 1), ('comp', 1)]",0.22272727272727272
+040508.ipcore.cex,"[('det:art', 16), ('prep', 11), ('mod', 6), ('qn', 5), ('aux', 4), ('part', 4), ('cop', 3), ('coord', 3), ('comp', 2)]",0.2317596566523605
+040514.ipcore.cex,"[('det:art', 9), ('mod', 8), ('prep', 4), ('inf', 2), ('cop', 2), ('conj', 1), ('coord', 1), ('comp', 1), ('aux', 1), ('part', 1), ('qn', 1)]",0.14622641509433962
+040522.ipcore.cex,"[('mod', 12), ('det:art', 10), ('prep', 7), ('cop', 6), ('conj', 3), ('qn', 2), ('inf', 2), ('comp', 2), ('coord', 1), ('aux', 1), ('part', 1)]",0.2052401746724891
+040529.ipcore.cex,"[('part', 8), ('mod', 6), ('inf', 5), ('coord', 4), ('det:art', 4), ('aux', 4), ('cop', 4), ('comp', 2), ('conj', 2), ('prep', 2)]",0.18385650224215247
+040605.ipcore.cex,"[('det:art', 14), ('prep', 9), ('cop', 8), ('mod', 7), ('part', 6), ('inf', 4), ('coord', 3), ('conj', 2), ('aux', 2), ('comp', 1), ('qn', 1)]",0.24358974358974358
+040610.ipcore.cex,"[('cop', 15), ('det:art', 14), ('aux', 9), ('prep', 9), ('coord', 8), ('mod', 6), ('part', 4), ('qn', 2), ('inf', 2)]",0.2793522267206478
+040617.ipcore.cex,"[('mod', 12), ('det:art', 11), ('cop', 5), ('prep', 3), ('comp', 2), ('conj', 2), ('part', 2), ('coord', 1), ('qn', 1), ('aux', 1), ('inf', 1)]",0.20812182741116753
+040624.ipcore.cex,"[('prep', 10), ('mod', 9), ('cop', 8), ('det:art', 8), ('aux', 7), ('inf', 5), ('part', 4), ('qn', 3), ('comp', 3), ('conj', 2)]",0.24789915966386555
+040700.ipcore.cex,"[('mod', 12), ('cop', 10), ('prep', 6), ('coord', 5), ('qn', 5), ('inf', 3), ('det:art', 2), ('conj', 2), ('part', 2), ('aux', 1)]",0.1991701244813278
+040711.ipcore.cex,"[('mod', 10), ('cop', 5), ('det:art', 4), ('qn', 4), ('prep', 3), ('comp', 3), ('conj', 2), ('coord', 2), ('part', 2), ('aux', 1), ('inf', 1)]",0.18316831683168316
+040717.ipcore.cex,"[('det:art', 12), ('mod', 10), ('prep', 6), ('cop', 5), ('inf', 3), ('aux', 3), ('part', 3), ('qn', 1), ('conj', 1), ('coord', 1)]",0.1965065502183406
+040724.ipcore.cex,"[('det:art', 12), ('prep', 9), ('cop', 7), ('mod', 6), ('part', 5), ('coord', 3), ('aux', 3), ('conj', 3), ('inf', 2), ('qn', 2), ('comp', 1)]",0.24311926605504589
+040807.ipcore.cex,"[('cop', 10), ('part', 6), ('mod', 6), ('det:art', 6), ('prep', 5), ('aux', 4), ('inf', 3), ('coord', 2), ('comp', 1)]",0.19196428571428573
+040813.ipcore.cex,"[('prep', 12), ('det:art', 12), ('coord', 7), ('cop', 6), ('mod', 5), ('conj', 3), ('aux', 1), ('qn', 1), ('inf', 1), ('comp', 1)]",0.22171945701357465
+040820.ipcore.cex,"[('mod', 11), ('det:art', 10), ('conj', 8), ('cop', 7), ('prep', 6), ('coord', 6), ('inf', 5), ('comp', 3), ('part', 3), ('aux', 2), ('qn', 1)]",0.2594142259414226
+040904.ipcore.cex,"[('prep', 10), ('mod', 9), ('qn', 8), ('coord', 5), ('part', 5), ('cop', 3), ('inf', 2), ('det:art', 2), ('aux', 2), ('conj', 2), ('comp', 1)]",0.21030042918454936
+040912.ipcore.cex,"[('prep', 12), ('det:art', 8), ('mod', 7), ('part', 6), ('cop', 5), ('aux', 5), ('conj', 3), ('coord', 3), ('qn', 2), ('inf', 2)]",0.22746781115879827
+040919.ipcore.cex,"[('det:art', 7), ('part', 5), ('mod', 5), ('cop', 5), ('prep', 4), ('conj', 2), ('inf', 1), ('coord', 1), ('aux', 1)]",0.14903846153846154
+040926.ipcore.cex,"[('det:art', 15), ('mod', 10), ('cop', 10), ('prep', 8), ('qn', 5), ('comp', 3), ('coord', 2), ('inf', 2), ('conj', 1)]",0.22580645161290322
+041006.ipcore.cex,"[('det:art', 14), ('coord', 9), ('aux', 6), ('part', 6), ('cop', 5), ('prep', 3), ('mod', 3), ('inf', 3), ('comp', 1), ('qn', 1), ('conj', 1)]",0.2311111111111111
+041021.ipcore.cex,"[('coord', 13), ('prep', 9), ('det:art', 9), ('mod', 6), ('part', 5), ('aux', 4), ('cop', 2), ('inf', 1), ('qn', 1), ('conj', 1)]",0.22972972972972974
+041027.ipcore.cex,"[('det:art', 20), ('mod', 8), ('prep', 8), ('aux', 7), ('part', 7), ('conj', 6), ('cop', 6), ('qn', 4), ('coord', 4), ('inf', 3)]",0.292
+041104.ipcore.cex,"[('prep', 11), ('cop', 9), ('coord', 7), ('mod', 5), ('det:art', 4), ('conj', 3), ('part', 3), ('comp', 2), ('qn', 2), ('aux', 1), ('inf', 1)]",0.24242424242424243
+041113.ipcore.cex,"[('coord', 11), ('cop', 7), ('mod', 7), ('prep', 5), ('det:art', 5), ('aux', 3), ('inf', 3), ('part', 1), ('qn', 1)]",0.17551020408163265
+041119.ipcore.cex,"[('det:art', 18), ('aux', 8), ('part', 8), ('cop', 7), ('prep', 5), ('mod', 3), ('coord', 2), ('inf', 1)]",0.23318385650224216
+041126.ipcore.cex,"[('cop', 13), ('prep', 10), ('mod', 10), ('inf', 5), ('det:art', 4), ('aux', 2), ('part', 2), ('conj', 1), ('coord', 1)]",0.20689655172413793
+050002.ipcore.cex,"[('cop', 10), ('prep', 9), ('mod', 8), ('inf', 6), ('part', 5), ('conj', 3), ('det:art', 3), ('aux', 2)]",0.21100917431192662
+050010.ipcore.cex,"[('det:art', 10), ('cop', 8), ('mod', 6), ('inf', 5), ('prep', 5), ('part', 4), ('qn', 3), ('aux', 3), ('coord', 2), ('conj', 1), ('comp', 1)]",0.22018348623853212
+050016.ipcore.cex,"[('mod', 12), ('prep', 10), ('inf', 8), ('conj', 6), ('coord', 5), ('det:art', 5), ('cop', 4), ('aux', 2), ('part', 2), ('qn', 1)]",0.22357723577235772
+050025.ipcore.cex,"[('part', 10), ('mod', 9), ('aux', 8), ('prep', 6), ('det:art', 5), ('cop', 5), ('coord', 3), ('comp', 1), ('inf', 1), ('conj', 1), ('qn', 1)]",0.22522522522522523
+050030.ipcore.cex,"[('cop', 14), ('det:art', 10), ('prep', 8), ('mod', 6), ('coord', 6), ('inf', 4), ('part', 4), ('conj', 3), ('aux', 2), ('qn', 2), ('comp', 2)]",0.2675438596491228
+050106.ipcore.cex,"[('cop', 13), ('mod', 11), ('det:art', 9), ('prep', 7), ('inf', 4), ('part', 3), ('coord', 2), ('qn', 2), ('conj', 2), ('comp', 1)]",0.226890756302521
