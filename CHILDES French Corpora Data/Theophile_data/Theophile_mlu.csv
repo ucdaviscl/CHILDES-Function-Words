@@ -1,0 +1,43 @@
+File,Language,Corpus,Code,Age,Sex,Group,Race,SES,Role,Education,Custom_field,#utterances,#morphemes,morphemes/utterances,Standard deviation
+010009.cha,fra,Paris,CHI,1;00.09,male,.,.,.,Target_Child,.,.,0,0,NA,NA
+010114.cha,fra,Paris,CHI,1;01.14,male,.,.,.,Target_Child,.,.,0,0,NA,NA
+010210.cha,fra,Paris,CHI,1;02.10,male,.,.,.,Target_Child,.,.,4,5,1.25,0.433
+010302.cha,fra,Paris,CHI,1;03.02,male,.,.,.,Target_Child,.,.,5,6,1.2,0.4
+010401.cha,fra,Paris,CHI,1;04.01,male,.,.,.,Target_Child,.,.,19,22,1.158,0.365
+010505.cha,fra,Paris,CHI,1;05.05,male,.,.,.,Target_Child,.,.,25,32,1.28,0.601
+010608.cha,fra,Paris,CHI,1;06.08,male,.,.,.,Target_Child,.,.,54,60,1.111,0.369
+010701.cha,fra,Paris,CHI,1;07.01,male,.,.,.,Target_Child,.,.,99,114,1.152,0.411
+010808.cha,fra,Paris,CHI,1;08.08,male,.,.,.,Target_Child,.,.,35,41,1.171,0.446
+010906.cha,fra,Paris,CHI,1;09.06,male,.,.,.,Target_Child,.,.,33,44,1.333,0.471
+011000.cha,fra,Paris,CHI,1;10.,male,.,.,.,Target_Child,.,.,100,137,1.37,0.56
+011107.cha,fra,Paris,CHI,1;11.07,male,.,.,.,Target_Child,.,.,52,85,1.635,0.878
+011125.cha,fra,Paris,CHI,1;11.25,male,.,.,.,Target_Child,.,.,98,137,1.398,0.567
+020020.cha,fra,Paris,CHI,2;00.20,male,.,.,.,Target_Child,.,.,187,256,1.369,0.7
+020208.cha,fra,Paris,CHI,2;02.08,male,.,.,.,Target_Child,.,.,118,200,1.695,1.124
+020301.cha,fra,Paris,CHI,2;03.01,male,.,.,.,Target_Child,.,.,145,215,1.483,0.84
+020405.cha,fra,Paris,CHI,2;04.05,male,.,.,.,Target_Child,.,.,260,408,1.569,0.907
+020429.cha,fra,Paris,CHI,2;04.29,male,.,.,.,Target_Child,.,.,216,344,1.593,0.898
+020603.cha,fra,Paris,CHI,2;06.03,male,.,.,.,Target_Child,.,.,238,413,1.735,1.089
+020704.cha,fra,Paris,CHI,2;07.04,male,.,.,.,Target_Child,.,.,318,608,1.912,1.286
+020729.cha,fra,Paris,CHI,2;07.29,male,.,.,.,Target_Child,.,.,270,604,2.237,1.37
+020907.cha,fra,Paris,CHI,2;09.07,male,.,.,.,Target_Child,.,.,409,1060,2.592,1.635
+021001.cha,fra,Paris,CHI,2;10.01,male,.,.,.,Target_Child,.,.,539,1181,2.191,1.287
+021027.cha,fra,Paris,CHI,2;10.27,male,.,.,.,Target_Child,.,.,533,1489,2.794,1.789
+021128.cha,fra,Paris,CHI,2;11.28,male,.,.,.,Target_Child,.,.,426,1234,2.897,1.799
+030200.cha,fra,Paris,CHI,3;02.,male,.,.,.,Target_Child,.,.,528,1854,3.511,2.41
+030302.cha,fra,Paris,CHI,3;03.02,male,.,.,.,Target_Child,.,.,405,1519,3.751,2.51
+030410.cha,fra,Paris,CHI,3;04.10,male,.,.,.,Target_Child,.,.,356,1288,3.618,2.776
+030511.cha,fra,Paris,CHI,3;05.11,male,.,.,.,Target_Child,.,.,399,1597,4.003,2.424
+030610.cha,fra,Paris,CHI,3;06.10,male,.,.,.,Target_Child,.,.,86,255,2.965,2.259
+030708.cha,fra,Paris,CHI,3;07.08,male,.,.,.,Target_Child,.,.,369,1644,4.455,2.875
+030815.cha,fra,Paris,CHI,3;08.15,male,.,.,.,Target_Child,.,.,248,911,3.673,2.598
+031000.cha,fra,Paris,CHI,3;10.,male,.,.,.,Target_Child,.,.,435,2014,4.63,3.317
+031115.cha,fra,Paris,CHI,3;11.15,male,.,.,.,Target_Child,.,.,433,1718,3.968,2.723
+040124.cha,fra,Paris,CHI,4;01.24,male,.,.,.,Target_Child,.,.,369,1214,3.29,2.563
+040329.cha,"fra, fra",Paris,CHI,4;03.28,male,.,.,.,Target_Child,.,.,416,1865,4.483,3.553
+040620.cha,"fra, fra",Paris,CHI,4;06.20,male,.,.,.,Target_Child,.,.,567,2517,4.439,3.525
+040907.cha,"fra, fra",Paris,CHI,4;09.07,male,.,.,.,Target_Child,.,.,386,2022,5.238,3.771
+041111.cha,fra,Paris,CHI,4;11.11,male,.,.,.,Target_Child,.,.,328,1459,4.448,3.26
+050413.cha,fra,Paris,CHI,5;04.13,male,.,.,.,Target_Child,.,.,367,1396,3.804,2.811
+050926.cha,fra,Paris,CHI,5;09.26,male,.,.,.,Target_Child,.,.,437,2273,5.201,3.364
+060328.cha,fra,Paris,CHI,6;03.28,male,.,.,.,Target_Child,.,.,351,1374,3.915,2.994

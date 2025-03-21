@@ -1,0 +1,46 @@
+File,Language,Corpus,Code,Age,Sex,Group,Race,SES,Role,Education,Custom_field,#utterances,#morphemes,morphemes/utterances,Standard deviation
+010024.cha,fra,Paris,CHI,1;00.24,male,.,.,.,Target_Child,.,.,4,4,1,0
+010124.cha,fra,Paris,CHI,1;01.23,male,.,.,.,Target_Child,.,.,18,19,1.056,0.229
+010224.cha,fra,Paris,CHI,1;02.24,male,.,.,.,Target_Child,.,.,2,3,1.5,0.5
+010315.cha,fra,Paris,CHI,1;03.15,male,.,.,.,Target_Child,.,.,3,3,1,0
+010419.cha,fra,Paris,CHI,1;04.19,male,.,.,.,Target_Child,.,.,12,12,1,0
+010521.cha,fra,Paris,CHI,1;05.21,male,.,.,.,Target_Child,.,.,23,23,1,0
+010622.cha,fra,Paris,CHI,1;06.21,male,.,.,.,Target_Child,.,.,68,77,1.132,0.482
+010715.cha,"fra, fra",Paris,CHI,1;07.15,male,.,.,.,Target_Child,.,.,53,73,1.377,0.783
+010805.cha,fra,Paris,CHI,1;08.05,male,.,.,.,Target_Child,.,.,43,55,1.279,0.584
+010911.cha,fra,Paris,CHI,1;09.11,male,.,.,.,Target_Child,.,.,127,147,1.157,0.715
+010927.cha,"fra, fra",Paris,CHI,1;09.26,male,.,.,.,Target_Child,.,.,150,166,1.107,0.33
+011010.cha,fra,Paris,CHI,1;10.10,male,.,.,.,Target_Child,.,.,193,229,1.187,0.415
+011104.cha,"fra, fra",Paris,CHI,1;11.04,male,.,.,.,Target_Child,.,.,209,246,1.177,0.52
+011118.cha,"fra, fra",Paris,CHI,1;11.18,male,.,.,.,Target_Child,.,.,161,169,1.05,0.244
+020001.cha,fra,Paris,CHI,2;00.01,male,.,.,.,Target_Child,.,.,330,391,1.185,0.432
+020020.cha,fra,Paris,CHI,2;00.20,male,.,.,.,Target_Child,.,.,251,285,1.135,0.386
+020113.cha,"fra, por",Paris,CHI,2;01.13,male,.,.,.,Target_Child,.,.,310,408,1.316,0.764
+020123.cha,"fra, fra",Paris,CHI,2;01.23,male,.,.,.,Target_Child,.,.,319,435,1.364,0.771
+020212.cha,"fra, fra",Paris,CHI,2;02.12,male,.,.,.,Target_Child,.,.,212,302,1.425,0.921
+020227.cha,"fra, fra",Paris,CHI,2;02.27,male,.,.,.,Target_Child,.,.,370,629,1.7,1.063
+020228.cha,fra,Paris,CHI,2;02.28,male,.,.,.,Target_Child,.,.,359,570,1.588,0.903
+020305.cha,fra,Paris,CHI,2;03.05,male,.,.,.,Target_Child,.,.,363,685,1.887,1.136
+020315.cha,fra,Paris,CHI,2;03.15,male,.,.,.,Target_Child,.,.,320,618,1.931,1.383
+020403.cha,fra,Paris,CHI,2;04.03,male,.,.,.,Target_Child,.,.,226,455,2.013,1.087
+020425.cha,fra,Paris,CHI,2;04.25,male,.,.,.,Target_Child,.,.,389,803,2.064,1.428
+020524.cha,fra,Paris,CHI,2;05.23,male,.,.,.,Target_Child,.,.,296,728,2.459,1.309
+020624.cha,fra,Paris,CHI,2;06.24,male,.,.,.,Target_Child,.,.,337,939,2.786,1.735
+020722.cha,fra,Paris,CHI,2;07.22,male,.,.,.,Target_Child,.,.,396,1025,2.588,1.826
+020820.cha,fra,Paris,CHI,2;08.20,male,.,.,.,Target_Child,.,.,342,829,2.424,1.482
+020916.cha,"fra, fra",Paris,CHI,2;09.16,male,.,.,.,Target_Child,.,.,559,1724,3.084,2.27
+021116.cha,fra,Paris,CHI,2;11.16,male,.,.,.,Target_Child,.,.,476,1368,2.874,2.305
+030021.cha,fra,Paris,CHI,3;00.21,male,.,.,.,Target_Child,.,.,467,1260,2.698,1.943
+030224.cha,fra,Paris,CHI,3;02.24,male,.,.,.,Target_Child,.,.,279,784,2.81,2.024
+030500.cha,fra,Paris,CHI,3;05.,male,.,.,.,Target_Child,.,.,375,1139,3.037,2.24
+030701.cha,fra,Paris,CHI,3;07.01,male,.,.,.,Target_Child,.,.,353,1262,3.575,2.634
+030922.cha,fra,Paris,CHI,3;09.21,male,.,.,.,Target_Child,.,.,458,1754,3.83,3.135
+040009.cha,fra,Paris,CHI,4;00.09,male,.,.,.,Target_Child,.,.,350,1162,3.32,2.886
+040219.cha,fra,Paris,CHI,4;02.19,male,.,.,.,Target_Child,.,.,265,918,3.464,2.772
+040516.cha,fra,Paris,CHI,4;05.16,male,.,.,.,Target_Child,.,.,429,1485,3.462,2.694
+040802.cha,"fra, fra",Paris,CHI,4;05.16,male,.,.,.,Target_Child,.,.,480,1653,3.444,3.231
+050213.cha,"fra, fra",Paris,CHI,5;02.13,male,.,.,.,Target_Child,.,.,470,1655,3.521,2.971
+050428.cha,fra,Paris,CHI,5;04.27,male,.,.,.,Target_Child,.,.,627,3204,5.11,4.139
+050711.cha,"fra, fra",Paris,CHI,5;07.11,male,.,.,.,Target_Child,.,.,364,1298,3.566,2.85
+051118.cha,"fra, fra",Paris,CHI,5;11.18,male,.,.,.,Target_Child,.,.,482,1980,4.108,3.494
+060308.cha,fra,Paris,CHI,6;03.08,male,.,.,.,Target_Child,.,.,630,3190,5.063,3.383
